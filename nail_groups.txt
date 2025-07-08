@@ -1,0 +1,16 @@
+Group 1 (1 nails):
+  real_image nail#4 - 36.0mm, 18.0g
+
+Group 2 (1 nails):
+  real_image nail#2 - 38.6mm, 19.3g
+
+Group 3 (3 nails):
+  real_image nail#8 - 44.2mm, 22.1g
+  real_image nail#1 - 45.0mm, 22.5g
+  real_image nail#6 - 46.0mm, 23.0g
+
+Group 4 (3 nails):
+  real_image nail#7 - 47.2mm, 23.6g
+  real_image nail#3 - 48.0mm, 24.0g
+  real_image nail#5 - 48.2mm, 24.1g
+
